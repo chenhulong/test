@@ -7,8 +7,4 @@ git remote add origin https://github.com/用户名/仓库名.git
                  //或者使用ssh,避免输入密码 
                  //git remote add origin git@github.com:用户名/仓库名.git
 git push origin master
---------------------- 
-作者：chent86 
-来源：CSDN 
-原文：https://blog.csdn.net/chent86/article/details/78575998 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
